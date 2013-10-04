@@ -1,26 +1,26 @@
-title:            Jesse Heady
-description:      blog.
+title:            Site Title
+description:      Describe your website here.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://your-website.com
+url:              http://your-website.com
 
 # Owner/author information
 owner:
-  name:           Jesse Heady
+  name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          jesseheady@gmail.com
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        jheady
-  facebook:       jheady
-  github:         m0nkey
-  stackexchange:  stackexchange.com/users/541777/jheady
-  linkedin:       jheady
-  instagram:      jheady
-  flickr:         monkey
-  tumblr:         jesseheady
+  twitter:        
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   109088856064319570163/posts
+  google_plus:   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
