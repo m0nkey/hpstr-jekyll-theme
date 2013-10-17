@@ -9,18 +9,18 @@ owner:
   name:           Jesse Heady
   avatar:         avatar.jpg
   bio:            "Future friendly.<br>Lover of the web.<br>Mustache expert.<br>Space nut."
-  email:          jesseheady@gmail.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jheady
-  facebook:       jheady
+  facebook:       
   github:         m0nkey
-  stackexchange:  stackexchange.com/users/541777/jheady
+  stackexchange:  http://stackexchange.com/users/541777/jheady
   linkedin:       jheady
-  instagram:      jheady
-  flickr:         monkey
-  tumblr:         jesseheady
+  instagram:      
+  flickr:         
+  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   109088856064319570163/posts
+  google_plus:   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -47,7 +47,7 @@ markdown:    kramdown
 permalink:   /:categories/:title
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 3
 
 kramdown:
   auto_ids: true
