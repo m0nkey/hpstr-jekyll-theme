@@ -8,7 +8,7 @@ disqus_shortname:
 owner:
   name:           Jesse Heady
   avatar:         avatar.jpg
-  bio:            "Future friendly.<br>Lover of the web.<br>Mustache expert.<br>Space nut."
+  bio:            "Husband.<br>Father.<br>Gamer.<br>Future friendly.<br>Lover of the web.<br>Mustache expert.<br>Space nut."
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jheady
@@ -38,10 +38,10 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
+timezone:       America/New_York
+future:         true
+highlighter:    pygments
+markdown:       kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
